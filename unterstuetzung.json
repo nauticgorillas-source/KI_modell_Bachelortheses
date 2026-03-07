@@ -1,0 +1,100 @@
+{
+  "Wohnsituation": {
+    "1": "Soforthilfe wie Notunterkünfte oder Tagesaufenthaltsstätten. Zugang zu Grundversorgung (z. B. Essen, Hygiene). Erste Gespräche zur Stabilisierung und Perspektiventwicklung.",
+    "2": "Unterstützung bei der Beantragung von Sozialleistungen (z. B. Wohnberechtigungsschein, Mietzuschuss). Vermittlung in temporäre Unterbringung wie Übergangswohnheime. Hilfe bei der Wiederaufnahme von Kontakten zu Behörden oder Angehörigen.",
+    "3": "Hilfe bei der Wohnungssuche auf dem regulären Wohnungsmarkt. Unterstützung bei der Entwicklung von Haushalts- und Alltagsstrukturen. Schuldenberatung bei Mietrückständen.",
+    "4": "Förderung der Selbstständigkeit (z. B. Umgang mit Mietverträgen). Begleitung bei der Suche nach eigenem Wohnraum. Unterstützung bei der Klärung sozialer oder rechtlicher Fragen (z. B. Meldeanschrift, Wohnberechtigung).",
+    "5": "Regelmäßige Beratung und Kontrolle zur Haushaltsführung und Mietzahlung. Hilfe bei der Stabilisierung der Wohnsituation (z. B. Konfliktmanagement). Förderung von Eigenverantwortung und Alltagskompetenzen.",
+    "6": "Beratung zur Sicherung der Mietzahlungen (z. B. Hilfe bei Nachzahlungen). Unterstützung bei der Integration ins Wohnumfeld (z. B. Nachbarschaftsbeziehungen). Vermittlung von Workshops zu Haushaltsführung oder Konfliktlösung.",
+    "7": "Präventive Beratung zu Mietrecht, Wohnungswechsel und Krisenbewältigung. Unterstützung beim Aufbau von Rücklagen oder Absicherungen (z. B. Versicherungen). Stärkung der Eigenverantwortung durch Reflexionsgespräche.",
+    "8": "Unterstützung bei der langfristigen Planung (z. B. Umzug). Beratung zu ökologischen und finanziellen Optimierungen im Wohnbereich. Förderung der sozialen Integration im Wohnumfeld.",
+    "9": "Unterstützung bei der Planung von Veränderungen (z. B. Umzüge). Beratung zu spezifischen Themen. Hilfe bei der Vernetzung mit z.B. Wohninitiativen.",
+    "10": "Abschluss der Begleitung, ggf. Impulse zur Weitergabe von Erfahrungen (z. B. als Mentor für andere). Reflexion und Unterstützung bei neuen Wohnzielen oder Projekten."
+  },
+  "Gesundheit": {
+    "1": "Notfallinterventionen, z. B. Kontaktaufnahme mit Rettungsdiensten, Begleitung in Krankenhäuser oder Notunterkünfte.",
+    "2": "Vermittlung an Ärzte, Therapeuten, Einrichtungen, Hilfen bei der Beschaffung von Medikamenten, Anbindung an soziale oder medizinische Hilfsdienste.",
+    "3": "Begleitung zu Arztterminen, Hilfe bei Anträgen (z. B. Krankenversicherung), Unterstützung bei der Orientierung im Gesundheitssystem.",
+    "4": "Regelmäßige Check-ins, Förderung der Motivation für gesundheitliche Maßnahmen, Begleitung zu Gesundheitskursen oder Therapiestellen.",
+    "5": "Förderung der Eigenverantwortung, Einführung in Themen wie gesunde Ernährung, Bewegung oder Stressbewältigung.",
+    "6": "Beratung und Schulungen, z. B. zu Prävention und langfristigen Gesundheitszielen, Unterstützung beim Aufbau von Netzwerken.",
+    "7": "Ermutigung und Reflexion der Fortschritte, Vertiefung von Themen wie mentale Gesundheit und Work-Life-Balance.",
+    "8": "Ressourcenstärkung, z. B. durch Resilienztrainings, Coaching für langfristige Balance.",
+    "9": "Begleitung bei der Reflexion und Weiterentwicklung von Gesundheitszielen, gelegentliche Check-ins zur Stabilisierung.",
+    "10": "Abschluss der Begleitung mit Fokus auf Empowerment und Verabschiedung in die Selbstständigkeit."
+  },
+  "Familie und soziales Umfeld": {
+    "1": "Soforthilfe zur Überwindung von Isolation, z. B. Vermittlung an Beratungsstellen oder Aufbau erster Kontaktmöglichkeiten.",
+    "2": "Unterstützung bei der Kontaktaufnahme, z. B. durch gemeinsame Gespräche oder das Schaffen geschützter Begegnungsräume.",
+    "3": "Förderung von regelmäßiger Interaktion, z. B. durch soziale Gruppenangebote oder Mediation in Konfliktsituationen.",
+    "4": "Begleitung bei der Klärung familiärer oder sozialer Rollen, Unterstützung bei der Etablierung gesunder Kommunikationsstrukturen.",
+    "5": "Stärkung der Eigenverantwortung, z. B. durch Konfliktlösungstrainings oder die Entwicklung von Routinen in Beziehungen.",
+    "6": "Unterstützung bei der Stärkung sozialer Kompetenzen und beim Aufbau langfristiger Beziehungen, z. B. durch Familienberatung.",
+    "7": "Förderung von langfristigen Zielen, wie z. B. die Entwicklung gemeinsamer Aktivitäten oder Stärkung der gegenseitigen Unterstützung.",
+    "8": "Begleitung zur weiteren Festigung von Resilienz, z. B. durch Workshops oder Reflexionsgespräche über Beziehungsmuster.",
+    "9": "Gelegentliche Reflexion oder Supervision, um Stabilität und Weiterentwicklung im sozialen Umfeld zu fördern.",
+    "10": "Abschluss der Begleitung mit Fokus auf Empowerment und Verabschiedung in die Selbstständigkeit."
+  }
+  ,
+  "Mobilität": {
+    "1": "Soforthilfe zur Überwindung von Immobilität, z. B. Organisation von Fahrdiensten oder Notfallunterstützung.",
+    "2": "Begleitung bei der Nutzung öffentlicher Verkehrsmittel oder Aufbau von Alternativen wie Fahrgemeinschaften.",
+    "3": "Unterstützung bei der Planung von Wegen oder bei der Nutzung öffentlicher Verkehrsmittel (z. B. Fahrkartenkauf, Routenplanung).",
+    "4": "Förderung von Vertrauen und Kompetenz in der Mobilität, z. B. durch Mobilitätstraining oder Begleitung bei neuen Wegen.",
+    "5": "Unterstützung bei der Optimierung der Mobilität, z. B. durch Schulungen zur Nutzung von Apps oder Fahrplänen.",
+    "6": "Förderung von Experimentierfreude und Selbstvertrauen, z. B. durch Orientierungshilfen oder Informationen über regionale Mobilitätsangebote.",
+    "7": "Unterstützung bei der Optimierung von Routinen oder dem Zugang zu nachhaltigen Verkehrsmitteln (z. B. Carsharing, E-Bikes).",
+    "8": "Förderung von Resilienz und Problemlösungskompetenz, z. B. durch Szenarien-Training oder Beratung zu Alternativlösungen.",
+    "9": "Reflexion und Beratung zu nachhaltiger Mobilität, z. B. Förderung von CO₂-neutralem Verhalten oder intermodaler Mobilität.",
+    "10": "Abschluss der Begleitung, ggf. Beratung zu neuen Mobilitätsoptionen als Inspiration für Weiterentwicklung."
+  },
+  "wirtschaftliche Verhältnisse": {
+    "1": "Soforthilfe, wie die Sicherstellung von Grundbedürfnissen (z. B. Lebensmittel, Unterkunft), Unterstützung bei Sozialhilfeanträgen.",
+    "2": "Unterstützung bei der Orientierung im sozialen Hilfesystem, Vermittlung von Notfallhilfen oder Schuldnerberatung.",
+    "3": "Unterstützung bei der Suche nach stabilen Einkommensquellen und der Optimierung von Sozialleistungen.",
+    "4": "Unterstützung bei der Budgetplanung, Schuldenreduktion und Weiterentwicklung von Einkommensmöglichkeiten.",
+    "5": "Vermittlung von finanzieller Bildung, wie Haushaltsplanung, Sparen oder der Umgang mit Verträgen und Versicherungen.",
+    "6": "Förderung von langfristiger Finanzplanung, z. B. Aufbau von Rücklagen oder Umgang mit unvorhergesehenen Ausgaben.",
+    "7": "Unterstützung bei der Weiterentwicklung von Sparstrategien oder Altersvorsorge.",
+    "8": "Beratung zu finanzieller Absicherung und der Nutzung von Fördermöglichkeiten.",
+    "9": "Unterstützung bei der Optimierung nachhaltiger Finanzpläne, z. B. durch Reflexion von Ausgaben.",
+    "10": "Abschluss der Begleitung, ggf. Impulse für neue wirtschaftliche Ziele."
+  },
+  "Alltagsmanagement": {
+    "1": "Soforthilfe bei der Organisation des Alltags, z. B. durch Unterstützung bei Einkäufen, Terminvereinbarungen oder Haushaltsführung.",
+    "2": "Begleitung bei der Erstellung einfacher Tages- und Wochenpläne sowie praktische Unterstützung in akuten Situationen.",
+    "3": "Anleitung bei der Strukturierung und Priorisierung von Aufgaben, z. B. Listenführung oder Terminmanagement.",
+    "4": "Förderung der Selbstorganisation, z. B. durch gezielte Übungen in Zeitmanagement und Haushaltsführung.",
+    "5": "Unterstützung bei der Übernahme komplexerer Aufgaben, z. B. durch Begleitung zu Behörden oder Schulung in Bürokratiemanagement.",
+    "6": "Förderung der Eigenverantwortung durch Reflexion und Unterstützung bei der Planung langfristiger Projekte oder Ziele.",
+    "7": "Beratung zur Optimierung von Zeitmanagement und Alltagsstrukturen, z. B. durch Workshops oder Coaching.",
+    "8": "Vertiefung von Resilienz- und Problemlösungsstrategien, z. B. durch Schulungen oder Reflexionsgespräche.",
+    "9": "Unterstützung bei der Feinabstimmung und Reflexion von Alltagsstrategien sowie bei der Anpassung an neue Lebensumstände.",
+    "10": "Abschluss der Begleitung mit einem Fokus auf Empowerment und ggf. Anreize für die Weiterentwicklung neuer Kompetenzen."
+  },
+  "Sprachkenntnisse": {
+    "1": "Vermittlung an Sprachkurse oder Dolmetscherdienste, Bereitstellung von grundlegenden Sprachhilfen (z. B. Bildkarten, Apps).",
+    "2": "Einführung in die Alltagssprache durch einfache Lernmethoden, Förderung von ersten Sprachgewohnheiten (z. B. Begrüßung üben).",
+    "3": "Begleitung bei ersten Gesprächen, Förderung von Sprachübungen im Alltag, z. B. durch Rollenspiele oder Tandemprogramme.",
+    "4": "Unterstützung durch praxisnahe Sprachförderung, z. B. durch gemeinsame Erledigungen oder Alltagsgespräche.",
+    "5": "Vertiefung der Grammatik und des Vokabulars, z. B. durch Sprachkurse auf mittlerem Niveau oder alltagsorientierte Übungen.",
+    "6": "Förderung der Fachsprache und des erweiterten Vokabulars, z. B. für berufliche oder spezifische Anforderungen.",
+    "7": "Unterstützung bei der Feinanpassung von Ausdruck und Redewendungen, z. B. durch Konversationskurse oder Sprach-Tandems.",
+    "8": "Förderung der sprachlichen Flexibilität, z. B. durch Diskussionen, Debatten oder Übungen zu spontaner Kommunikation.",
+    "9": "Unterstützung bei der Vertiefung kultureller Aspekte, z. B. durch interkulturelles Training oder kulturelle Austauschprojekte.",
+    "10": "Abschluss der Begleitung, ggf. Förderung zur Mehrsprachigkeit oder bei neuen beruflichen Anforderungen."
+  },
+  "Bewerbung und Arbeitsmarktintegration": {
+    "1": "",
+    "2": "",
+    "3": "Erstgespräche zur Perspektiventwicklung, Zugang zu Jobberatung oder sozialen Unterstützungsangeboten herstellen.",
+    "4": "Unterstützung bei der Berufsorientierung, z. B. durch Kompetenzanalysen oder Informationsveranstaltungen.",
+    "5": "Hilfe bei der Erstellung von Bewerbungsunterlagen, Einführung in Jobbörsen und Bewerbungsplattformen.",
+    "6": "Begleitung bei der Bewerbungsphase, z. B. durch Bewerbungstraining oder Unterstützung bei Vorstellungsgesprächen.",
+    "7": "Unterstützung bei der Vorbereitung auf Vorstellungsgespräche, Reflexion und Optimierung des Bewerbungsprozesses.",
+    "8": "Begleitung bei der Stabilisierung des Arbeitsverhältnisses, z. B. durch Gespräche mit Arbeitgebern oder Qualifizierungsangebote.",
+    "9": "Beratung zu beruflicher Weiterentwicklung, z. B. Weiterbildungsmöglichkeiten oder Konfliktmanagement am Arbeitsplatz.",
+    "10": "Unterstützung bei der beruflichen Karriereplanung, z. B. durch Coaching oder Mentoring."
+  }
+}
+

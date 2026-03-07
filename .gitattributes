@@ -1,0 +1,2 @@
+custom_model filter=lfs diff=lfs merge=lfs -text
+custom_model/* filter=lfs diff=lfs merge=lfs -text

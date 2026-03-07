@@ -12,15 +12,16 @@ Da das Modell sehr groß ist brauchen wir **GitLFS.**
 
 ```bash
 git clone https://github.com/nauticgorillas-source/KI_modell_Bachelortheses.git
-                
+```                
 ```bash
 cd KI_modell_Bachelortheses
-                
+```                
 ```bash
 pip install -r requirements.txt
-                
+```                
 ```bash
 streamlit run prototyp.py
+```
 
 Test-Eingaben
 --------------------------------

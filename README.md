@@ -10,13 +10,13 @@ Da das Modell sehr groß ist brauchen wir **GitLFS.**
 **Link:** https://git-lfs.com/
 **Powershell:** git lfs install
 
-*´´*                git clone https://github.com/nauticgorillas-source/KI_modell_Bachelortheses.git
+                git clone https://github.com/nauticgorillas-source/KI_modell_Bachelortheses.git
                 
-*´´*                cd KI_modell_Bachelortheses
+                cd KI_modell_Bachelortheses
                 
-*´´*                pip install -r requirements.txt
+                pip install -r requirements.txt
                 
- *´´*               streamlit run prototyp.py
+                streamlit run prototyp.py
 
 Test-Eingaben
 --------------------------------

@@ -1,6 +1,7 @@
 # KI_modell_Bachelortheses
 Projekt: 
-Konzeption und prototypische Entwicklung eines datenschutzkonformen, erklärbaren NLP-Assistenzsystems für die psychosoziale Beratung Autor: Muhamad Akram Yahwar Abgabedatum: 09.03.2026
+Konzeption und prototypische Entwicklung eines datenschutzkonformen, erklärbaren NLP-Assistenzsystems für die psychosoziale Beratung 
+
 **Autor:** Muhamad Akram Yahwar  
 
 
@@ -11,9 +12,9 @@ Konzeption und prototypische Entwicklung eines datenschutzkonformen, erklärbare
 
 # Installation
 --------------------------------
-install -r requirements.txt
+pip install -r requirements.txt
 
-# start es Prototyp (terminal Befehl)
+# start des Prototyp (terminal Befehl)
 --------------------------------
 streamlit run prototyp.py
 

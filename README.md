@@ -8,6 +8,7 @@ Konzeption und prototypische Entwicklung eines datenschutzkonformen, erklärbare
 ## Systemvoraussetzung
 --------------------------------
 **Python-Version:** 3.9 oder höher
+
 **Git LFS:** Erforderlich zum Herunterladen der Modelldateien (479 MB) 
 
 # Installation

@@ -21,14 +21,14 @@ streamlit run prototyp.py
 
 Test-Eingaben
 --------------------------------
-Ich habe kein Geld für die Miete und viele Schulden
+Ich habe kein Geld für die Miete und viele Schulden.
 
-Ich bin krank und brauche Hilfe beim Arzt
+Ich bin krank und brauche Hilfe beim Arzt.
 
-Hilfe bei Briefen vom Amt und Terminen
+Hilfe bei Briefen vom Amt und Terminen.
 
-Die Person befindet sich in einer existenziellen Notlage bezüglich Bewerbung
+Die Person befindet sich in einer existenziellen Notlage bezüglich Bewerbung.
 
-Ich suche Arbeit und einen neuen Job
+Ich suche Arbeit und einen neuen Job.
 
-Die betreute Person ist auf externe, unregelmäßige Hilfen angewiesen im Bereich Arbeitsmarktintegration
+Die betreute Person ist auf externe, unregelmäßige Hilfen angewiesen im Bereich Arbeitsmarktintegration.

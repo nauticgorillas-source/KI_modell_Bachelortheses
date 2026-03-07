@@ -12,7 +12,7 @@ Konzeption und prototypische Entwicklung eines datenschutzkonformen, erklärbare
 
 # Installation
 --------------------------------
-pip install -r requirements.txt
+** pip install -r requirements.txt
 
 # start es Prototyp (terminal Befehl)
 --------------------------------

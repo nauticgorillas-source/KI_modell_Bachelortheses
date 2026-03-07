@@ -2,22 +2,17 @@
 Projekt: 
 Konzeption und prototypische Entwicklung eines datenschutzkonformen, erklärbaren NLP-Assistenzsystems für die psychosoziale Beratung 
 
-**Autor:** Muhamad Akram Yahwar  
+**Autor:** Muhamad Akram Yahwar
 
-
-## Systemvoraussetzung
---------------------------------
-**Python-Version:** 3.9 oder höher
-
-**Git LFS:** Erforderlich zum Herunterladen der Modelldateien (479 MB) 
-
+**Anleitung:**
 # Installation
---------------------------------
-pip install -r requirements.txt
-
-# start des Prototyp (terminal Befehl)
---------------------------------
-streamlit run prototyp.py
+Da das Modell sehr groß ist brauchen wir **GitLFS.**
+**Link:** https://git-lfs.com/
+**Powershell:** git lfs install
+                git clone https://github.com/nauticgorillas-source/KI_modell_Bachelortheses.git
+                cd KI_modell_Bachelortheses
+                pip install -r requirements.txt
+                streamlit run prototyp.py
 
 Test-Eingaben
 --------------------------------

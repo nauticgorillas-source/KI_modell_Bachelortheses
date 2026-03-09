@@ -8,8 +8,11 @@ Konzeption und prototypische Entwicklung eines datenschutzkonformen, erklärbare
 # Installation
 Da das Modell sehr groß ist brauchen wir **GitLFS.**
 **Link:** https://git-lfs.com/
-**Powershell:**git lfs install
 
+**Powershell:**
+```bash
+git lfs install
+```
 ```bash
 git clone https://github.com/nauticgorillas-source/KI_modell_Bachelortheses.git
 ```                
